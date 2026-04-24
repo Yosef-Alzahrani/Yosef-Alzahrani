@@ -55,7 +55,8 @@ I enjoy building end-to-end intelligent systems that solve real-world problems, 
 ---
 
 ##  Contact Me
--  Email: Jozef139292@gmail.com  
+-  Email: Jozef139292@gmail.com
+-  LinkedIn: https://www.linkedin.com/in/yosef-al-zahrani-754951350/ 
 -  Location: Saudi Arabia  
 
 ---
