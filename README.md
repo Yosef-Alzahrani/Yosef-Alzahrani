@@ -42,11 +42,11 @@ yousef = {
 </td>
 <td valign="top" width="45%">
 
-🔹 Cut SQL runtime from **minutes → < 1 sec** at KFMC  
-🔹 Built **96.2% accurate** wound classification AI  
-🔹 Lakehouse & Medallion with **Microsoft Fabric**  
-🔹 **6 certifications** — IBM · Microsoft · Tuwaiq  
-🔹 180+ hours of intensive data engineering training  
+🔹 Cut SQL runtime from **minutes → < 1 sec** at KFMC
+🔹 Built **96.2% accurate** wound classification AI
+🔹 Lakehouse & Medallion with **Microsoft Fabric**
+🔹 **6 certifications** — IBM · Microsoft · Tuwaiq
+🔹 180+ hours of intensive data engineering training
 
 </td>
 </tr>
@@ -74,15 +74,15 @@ yousef = {
 **🏥 Data Analyst Intern — King Fahad Medical City, Riyadh**
 `Jun 2025 – Dec 2025`
 
-> - ⚡ Optimized SQL pipelines with CTEs & window functions → runtime from **minutes to < 1 second**
-> - 📊 Built Power BI dashboards for KPI tracking & executive decision-making across hospital teams
-> - 🧹 Cleaned and modeled medical datasets with Python & Excel for accurate clinical reporting
-> - 🤖 Integrated AI tools to improve hospital medical workflows
+> - ⚡ Optimized SQL with CTEs & window functions → runtime from **minutes to < 1 second**
+> - 📊 Built Power BI dashboards for KPI tracking & executive decision-making
+> - 🧹 Cleaned medical datasets with Python & Excel for accurate clinical reporting
+> - 🤖 Integrated AI tools to improve hospital workflows
 
 **🎓 Microsoft Data Engineering Bootcamp — Athar Academy**
 `Dec 2025 – Apr 2026 · 180+ hours`
 
-> - Built production pipelines with **Fabric · Azure · Airflow · Kafka · Spark · MongoDB**
+> - Built pipelines with **Fabric · Azure · Airflow · Kafka · Spark · MongoDB**
 > - Applied Lakehouse & Medallion architecture on real datasets
 
 ---
@@ -93,8 +93,8 @@ yousef = {
 
 | # | Project | Highlights | Stack |
 |---|---|---|---|
-| 🩺 | [**HealAI**](https://github.com/Yosef-Alzahrani/MedGrade-AI) | 96.2% accurate wound classification · Scalable cloud backend | Python · TensorFlow · OpenCV · FastAPI |
-| 📊 | **Hospital Analytics** | End-to-end SQL reporting · Executive-level dashboards @ KFMC | SQL · Power BI · DAX · Python |
+| 🩺 | [**HealAI**](https://github.com/Yosef-Alzahrani/MedGrade-AI) | 96.2% accurate wound classification | Python · TensorFlow · OpenCV · FastAPI |
+| 📊 | **Hospital Analytics** | Executive dashboards @ KFMC | SQL · Power BI · DAX |
 
 </div>
 
@@ -104,14 +104,12 @@ yousef = {
 
 <div align="center">
 
-![Microsoft DE](https://img.shields.io/badge/✓_Microsoft_Data_Engineering-Athar_Academy_2026-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![BI](https://img.shields.io/badge/✓_Data_Analysis_%26_BI-Athar_Academy_2026-0078D4?style=flat-square&logo=powerbi&logoColor=white)
-
-![IBM DE](https://img.shields.io/badge/✓_IBM_Data_Engineering_Professional-Coursera_2026-052FAD?style=flat-square&logo=ibm&logoColor=white)
-![IBM DS](https://img.shields.io/badge/✓_IBM_Data_Science_Professional-Coursera_2026-052FAD?style=flat-square&logo=ibm&logoColor=white)
-
-![SQL](https://img.shields.io/badge/✓_SQL_103-Tuwaiq_Academy_2025-1a73e8?style=flat-square&logo=postgresql&logoColor=white)
-![Product](https://img.shields.io/badge/✓_Product_Prioritization-Product_School_2025-6c3483?style=flat-square&logo=productboard&logoColor=white)
+![Microsoft DE](https://img.shields.io/badge/✓_Microsoft_Data_Engineering-Athar_2026-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![BI](https://img.shields.io/badge/✓_Data_Analysis_%26_BI-Athar_2026-0078D4?style=flat-square&logo=powerbi&logoColor=white)
+![IBM DE](https://img.shields.io/badge/✓_IBM_Data_Engineering-Coursera_2026-052FAD?style=flat-square&logo=ibm&logoColor=white)
+![IBM DS](https://img.shields.io/badge/✓_IBM_Data_Science-Coursera_2026-052FAD?style=flat-square&logo=ibm&logoColor=white)
+![SQL](https://img.shields.io/badge/✓_SQL_103-Tuwaiq_2025-1a73e8?style=flat-square&logo=postgresql&logoColor=white)
+![Product](https://img.shields.io/badge/✓_Product_Prioritization-Product_School_2025-6c3483?style=flat-square)
 
 </div>
 
@@ -120,26 +118,17 @@ yousef = {
 ## 📊 GitHub Activity
 
 <div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com/?user=Yosef-Alzahrani&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-
+<img width="70%" src="https://streak-stats.demolab.com/?user=Yosef-Alzahrani&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
-## 📫 Let's Connect
-
 <div align="center">
-
-*Open to collaborations, interesting problems, and ambitious data projects.*
-
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yosef-al-zahrani-754951350/)
 [![Email](https://img.shields.io/badge/Send_an_Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:Yosef.Alzahrani@outlook.sa)
 
+*Open to collaborations, interesting problems, and ambitious data projects.*
 </div>
-
-<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a237e,100:0078D4&height=120&section=footer" />
