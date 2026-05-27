@@ -73,16 +73,11 @@
 
 ## 🚀 Projects
 
-<a href="https://github.com/Yosef-Alzahrani/MedGrade-AI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yosef-Alzahrani&repo=MedGrade-AI&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</a>
-
-<br/><br/>
-
 > **HealAI — Wound & Health Assessment Platform**
 > - 🩹 **96.2% accurate** wound classification using CNN + OpenCV
 > - 🏗️ Scalable cloud-ready backend with FastAPI
 > - 📊 End-to-end data pipelines for medical image processing
+> - 🔗 [View Repository](https://github.com/Yosef-Alzahrani/MedGrade-AI)
 >
 > **Hospital Data Analytics Dashboard** *(@ KFMC)*
 > - 📈 End-to-end SQL reporting & Power BI dashboards
@@ -107,12 +102,11 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Yosef-Alzahrani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yosef-Alzahrani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
+<img src="https://streak-stats.demolab.com/?user=Yosef-Alzahrani&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<img height="180" src="https://streak-stats.demolab.com/?user=Yosef-Alzahrani&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yosef-Alzahrani&theme=tokyo-night&hide_border=true" />
 
 </div>
 
